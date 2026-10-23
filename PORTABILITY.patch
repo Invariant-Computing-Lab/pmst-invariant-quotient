@@ -1,0 +1,2 @@
+-ROOT = Path('/mnt/data/PMST_Invariant_Geometry_Q1_Package')
++ROOT = Path(__file__).resolve().parents[1]

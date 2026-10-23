@@ -1,0 +1,6 @@
+Hypothesis,Pre-specified criterion summary,Outcome
+H1,"Gauge trace/commutator invariants remain exact under U(3), while raw coordinates change",PASS
+H2,Elementary symmetric composition invariants are permutation-exact and complete on the 10-class alphabet,PASS
+H3,"Full nuisance quotient modulus J is exact, OOD-discriminative, and reconstructs a canonical law representative",PASS
+H4,Charge-sector identity survives preserving perturbations but fails under sector-breaking perturbations,PASS
+H5,"Literal Appendix-B Psi operator produces hypercubes, not the claimed ternary/octagonal family",PASS

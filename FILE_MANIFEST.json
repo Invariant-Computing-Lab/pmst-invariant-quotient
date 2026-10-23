@@ -1,0 +1,227 @@
+[
+  {
+    "path": ".github/workflows/source-check.yml",
+    "bytes": 282,
+    "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+  },
+  {
+    "path": "01_Manuscript_PMST_Invariant_Quotient_Geometry.docx",
+    "bytes": 624788,
+    "sha256": "df2a2cf87cefe9f88deac7bf121fa13dad0e879420598c1916d81665b44d9040"
+  },
+  {
+    "path": "01_Manuscript_PMST_Invariant_Quotient_Geometry.md",
+    "bytes": 29061,
+    "sha256": "13c27c479beabba26d83a11f8f98fcf137d8bb929a40e0f1cd70069e342d646d"
+  },
+  {
+    "path": "01_Manuscript_PMST_Invariant_Quotient_Geometry.pdf",
+    "bytes": 778186,
+    "sha256": "44a323c58251b9884c205cf66fea41048d0c8417c14c387183e757a58ab0bf6d"
+  },
+  {
+    "path": "02_Supplementary_Appendix_PMST_Invariants.docx",
+    "bytes": 621142,
+    "sha256": "71f5fd96dd84af5c2234a0b34706584d3c0fdc687cc4d1da643ce79d5eb999a3"
+  },
+  {
+    "path": "02_Supplementary_Appendix_PMST_Invariants.md",
+    "bytes": 18474,
+    "sha256": "237f8f36a3b9fc5a94e71ddec4a176d4d4502ba5837d74aae352afa6f23532dc"
+  },
+  {
+    "path": "02_Supplementary_Appendix_PMST_Invariants.pdf",
+    "bytes": 809412,
+    "sha256": "fed08499e7de3bfe2be7485447aed3f3217c949e4907c12c41c83e00d90c7855"
+  },
+  {
+    "path": "03_Reproducibility/CITATION.cff",
+    "bytes": 314,
+    "sha256": "d4b9259346fe18243cf33f3927b68765f7b4757eaa5654d4f5f01c6bc5822f71"
+  },
+  {
+    "path": "03_Reproducibility/pmst_invariant_final_experiment.py",
+    "bytes": 22403,
+    "sha256": "a723239284f15dd5ddcb149e5dc5ca2fdc53b3d14579999beccf4c1986ed5b32"
+  },
+  {
+    "path": "03_Reproducibility/requirements.txt",
+    "bytes": 92,
+    "sha256": "1dec9ce27e27a6120a84d6f41ee92e9fde09b1a949b20f22c2e0c0a53be0daf1"
+  },
+  {
+    "path": "04_Data/H1_GL_conditioning.csv",
+    "bytes": 22275,
+    "sha256": "f141c129949d78af46a999dc8655bad92f4d7159488580545a84da3ec46d631b"
+  },
+  {
+    "path": "04_Data/H1_gauge_exact.csv",
+    "bytes": 11181,
+    "sha256": "404dd7aff53cfb238068b477e59c848359053783e5253cc263e43afe4b2c6629"
+  },
+  {
+    "path": "04_Data/H1_gauge_offorbit.csv",
+    "bytes": 54400,
+    "sha256": "e9784d1acd23d13368145a65794487a405c2eedc47f25e4aeab29029a230d5f1"
+  },
+  {
+    "path": "04_Data/H2_permutation_exact.csv",
+    "bytes": 515,
+    "sha256": "727c93969b384c351b76ee7f8cc5bc279a2089cf76f78b22eecf3cf094b963e9"
+  },
+  {
+    "path": "04_Data/H3_adversarial_nuisance_grid.csv",
+    "bytes": 13924,
+    "sha256": "616c7cb453bfa02a3737c147e10ae425390f49cb6485219e196f79f00c1474a2"
+  },
+  {
+    "path": "04_Data/H3_full_quotient_exact.csv",
+    "bytes": 480013,
+    "sha256": "01523a5e186e4c2a999e9b2a8ed37028c2541891e28b917cf2772e0ff502f247"
+  },
+  {
+    "path": "04_Data/H4_spectral_identity.csv",
+    "bytes": 290693,
+    "sha256": "a601ab3e167f9f4a98fa1c3cedc8bd95e443c033f1570c0a8593befaa49d5e55"
+  },
+  {
+    "path": "04_Data/H5_central_copy_status.csv",
+    "bytes": 1017,
+    "sha256": "5e134f23202fb2d0637ef80c05b5747d43c1a1ea75e9507b967b50d6b8ed4618"
+  },
+  {
+    "path": "05_Figures/Figure_1_Gauge_Dose_Response.png",
+    "bytes": 136188,
+    "sha256": "61b2ca5e3ca385ee3edae6e3aaf73ccf3154bbbd78afa5ea073a7b7a09a293b2"
+  },
+  {
+    "path": "05_Figures/Figure_2_Composition_Robustness.png",
+    "bytes": 170832,
+    "sha256": "a3783021e066636d726b5860ec0f55d0117e21a35e5d1153eb5a4c71368cd2bf"
+  },
+  {
+    "path": "05_Figures/Figure_3_Quotient_OOD.png",
+    "bytes": 125476,
+    "sha256": "22aacad050b6b2cec5230c8cb5d71a1d0637282c7692ccb041f7e5887ab88642"
+  },
+  {
+    "path": "05_Figures/Figure_4_Spectral_Identity.png",
+    "bytes": 125245,
+    "sha256": "0094e19a14d4f7c88100a8f91b5c456211fbf5f9e428a390b6aa9313531916e4"
+  },
+  {
+    "path": "05_Figures/Figure_5_Psi_Falsification.png",
+    "bytes": 113012,
+    "sha256": "18e86e6d22d317f546537ffbdee7a619bc5fae324f6105f0a1339ead1843440c"
+  },
+  {
+    "path": "06_Tables/Confirmatory_Hypotheses.csv",
+    "bytes": 597,
+    "sha256": "b753f94410f5a6ebb3a7b1a73925303b0e00f5ab58f74566860633ef61b8cf52"
+  },
+  {
+    "path": "06_Tables/H1_gauge_dose_response.csv",
+    "bytes": 724,
+    "sha256": "350a58f823b5d0fe79843d725294101b4efa4c34da43ea27675eef03ba5e81bb"
+  },
+  {
+    "path": "06_Tables/H2_composition_classes.csv",
+    "bytes": 485,
+    "sha256": "16b9ca3fd6996918417af83b0fa8fe1f6b5e0a66438c60ebfb6c786810ceecc1"
+  },
+  {
+    "path": "06_Tables/H2_noise_robustness.csv",
+    "bytes": 265,
+    "sha256": "a9bff634bd64b29833a9d17ca7c8cfbfd9c0200107d98941a69866513454714d"
+  },
+  {
+    "path": "06_Tables/H3_OOD_ablation.csv",
+    "bytes": 125,
+    "sha256": "1d0e3240d9e11f12d3b9d6f8337e1f5ed4994d41508f429233f144d1e81be513"
+  },
+  {
+    "path": "06_Tables/H4_discriminant_localization.csv",
+    "bytes": 424,
+    "sha256": "a0744dcd32c08b1aeb512440301c7856b99d2c35b686b103f6432c12c5cc4e18"
+  },
+  {
+    "path": "06_Tables/H4_spectral_summary.csv",
+    "bytes": 1891,
+    "sha256": "059ed6cde40e5d3113dac7bd024ea304f81d31c185303f506c1394793928986b"
+  },
+  {
+    "path": "06_Tables/H5_literal_Psi_geometry.csv",
+    "bytes": 249,
+    "sha256": "44bd4808211a5f1f63a40e33c9d2df677b6ec5aaa0709f08ecd8f714fb8e8d0d"
+  },
+  {
+    "path": "07_Reporting/ANALYSIS_PLAN.md",
+    "bytes": 1195,
+    "sha256": "a7b35c766cdb587ce2cbeb5e493ddb9a66b7dae0986863695be894bf24c01920"
+  },
+  {
+    "path": "07_Reporting/CLAIM_BOUNDARIES.md",
+    "bytes": 1109,
+    "sha256": "2a24f043c81407960953a1c7cb380101cf57ba2b08620bb05182525242627418"
+  },
+  {
+    "path": "07_Reporting/ENVIRONMENT.json",
+    "bytes": 308,
+    "sha256": "63ea1d969f21c82ec24905c035c0bfa75a0ff91f231b514e7a0a7f02e94f27b3"
+  },
+  {
+    "path": "07_Reporting/FINAL_RESULTS.json",
+    "bytes": 2046,
+    "sha256": "c079021237494d49ba0f4c194eeeec727f349ce0a005dd0981051c639d791b58"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 213,
+    "sha256": "5f05cf0f57c4a24624792650f0786e98bac337d3a2b4ece9e1e743b216215afe"
+  },
+  {
+    "path": "DEPENDENCIES_AND_CHECKS.md",
+    "bytes": 527,
+    "sha256": "2a0cc2a90e376cc9461b3d884b73d42672d5bba20fcb833cd686e5ccba276b72"
+  },
+  {
+    "path": "MANIFEST_SHA256.txt",
+    "bytes": 3715,
+    "sha256": "5d2d10e6419679f4cf830702084422a00b376057a9cd4bf2d4eff25511cb828e"
+  },
+  {
+    "path": "PORTABILITY.patch",
+    "bytes": 104,
+    "sha256": "468ea0e867851e7e7474d7275150d110b34caf9d13d7d1aa1f0210778d82c655"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1870,
+    "sha256": "c71de1b5689b22441b4e9b33fe78630fd34555997174a5cbb7c65edd2f94173d"
+  },
+  {
+    "path": "README_SUBMISSION_PACKAGE.md",
+    "bytes": 1630,
+    "sha256": "9c2363b4b04ba5bd6eb360df6c94c0cdc5c1e612df1decb6610d5df4d9faf793"
+  },
+  {
+    "path": "RELEASE_NOTES.md",
+    "bytes": 226,
+    "sha256": "26f0876b299412dd922a9e9981cf1000cd7c0ed15e1a80fc0ef3d51e32db1cca"
+  },
+  {
+    "path": "RELEASE_SPEC.json",
+    "bytes": 1216,
+    "sha256": "5b02c6f7ba70ca8093f6e5f9d3876127b3393a39ab6d2a16120a6b62287a2885"
+  },
+  {
+    "path": "checks/RESULT.json",
+    "bytes": 2729,
+    "sha256": "32d0b041f81af2db99306077e1da3efddda60bdf4cee20bbbcaa3f52c2676360"
+  },
+  {
+    "path": "run_checks.py",
+    "bytes": 2366,
+    "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+  }
+]

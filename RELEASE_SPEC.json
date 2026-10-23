@@ -1,0 +1,27 @@
+{
+  "repo": "pmst-invariant-quotient",
+  "codes": [
+    "N009"
+  ],
+  "commands": [
+    [
+      "python",
+      "03_Reproducibility/pmst_invariant_final_experiment.py"
+    ]
+  ],
+  "check_cwd": ".",
+  "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation.",
+  "status": "LOCAL_RUNTIME_PASSED_OWNER_GATES_OPEN",
+  "source_unchanged": false,
+  "source_archive_sha256": "a64857775a05fb882cca0b4cbb253f223e4ae803c48fda74d7ad8778acce80a9",
+  "patch": "Output-path portability only: ROOT resolves relative to script. The scientific expressions and parameters are unchanged.",
+  "owner_approval_required": true,
+  "public_uploaded": false,
+  "source_reference": "See private release registry; source hashes retained.",
+  "last_check": {
+    "passed": true,
+    "checked_utc": "2026-10-21T16:54:21.651849+00:00",
+    "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation."
+  },
+  "runtime_status": "PASS"
+}

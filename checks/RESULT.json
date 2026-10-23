@@ -1,0 +1,20 @@
+{
+  "repo": "pmst-invariant-quotient",
+  "status": "PASS",
+  "commands": [
+    {
+      "repo": "pmst-invariant-quotient",
+      "command": [
+        "python",
+        "03_Reproducibility/pmst_invariant_final_experiment.py"
+      ],
+      "seconds": 29.0,
+      "returncode": 0,
+      "log": "/mnt/data/release_work/rerun_logs/pmst-invariant-quotient_0.log",
+      "log_tail": "{\n  \"seed\": 20260812,\n  \"confirmatory_gates\": {\n    \"H1_gauge_exactness\": true,\n    \"H2_composition_completeness\": true,\n    \"H3_quotient_reconstructibility\": true,\n    \"H4_spectral_identity_separation\": true,\n    \"H5_literal_Psi_falsification\": true\n  },\n  \"H1\": {\n    \"median_invariant_drift\": 5.801329158445335e-16,\n    \"bootstrap95_median_ci\": [\n      5.255604080091009e-16,\n      6.450013285874163e-16\n    ],\n    \"median_raw_coordinate_drift\": 1.3481796835038633,\n    \"raw_bootstrap95_median_ci\": [\n      1.3311461172195855,\n      1.3659019814770887\n    ],\n    \"offorbit_loglog_slope\": 1.0008851509530197,\n    \"GL_cond1e6_median_drift\": 0.5769019077302362\n  },\n  \"H2\": {\n    \"max_exact_permutation_drift\": 0.0,\n    \"unique_total_charge_classes\": 7,\n    \"unique_full_invariant_classes\": 10,\n    \"accuracy_sigma_0_05\": {\n      \"sigma\": 0.05,\n      \"poly_invariant_accuracy\": 0.9704,\n      \"charge_only_accuracy\": 0.6697,\n      \"sorted_multiset_accuracy\": 0.998\n    }\n  },\n  \"H3\": {\n    \"median_J_drift\": 1.7851067251181713e-16,\n    \"bootstrap95_median_J_ci\": [\n      1.7307674341864057e-16,\n      1.826367603926479e-16\n    ],\n    \"median_reconstruction_error\": 1.883489347959949e-16,\n    \"bootstrap95_reconstruction_ci\": [\n      1.8355738373327112e-16,\n      1.9422423105522766e-16\n    ],\n    \"raw_OOD_accuracy\": 0.356,\n    \"invariant_OOD_accuracy\": 1.0,\n    \"accuracy_difference_bootstrap95_ci\": [\n      0.628,\n      0.6603416666666666\n    ],\n    \"invariant_permutation_test_p\": 0.000999000999000999,\n    \"adversarial_grid_max_J_drift\": 6.667849719742875e-16\n  },\n  \"H4\": {\n    \"eps_0_1_preserving_energy_median\": 0.05153536872829915,\n    \"eps_0_1_preserving_impurity_median\": 3.1456319031046104e-16,\n    \"eps_0_1_breaking_impurity_median\": 0.25589531260483944,\n    \"sector_impurity_AUC\": 1.0,\n    \"MannWhitney_p\": 1.0765760474361699e-83,\n    \"Cliffs_delta\": 1.0\n  },\n  \"H5\": {\n    \"vertex_sequence\": [\n      2,\n      4,\n      8,\n      16,\n      32,\n      64\n    ],\n    \"all_match_2powN\": true,\n    \"strict_interior_central_vertices\": 0\n  }\n}\n"
+    }
+  ],
+  "checked_utc": "2026-10-21T16:54:21.651849+00:00",
+  "environment": "Linux CPython 3.13.5; existing installed dependencies via isolated test venv with inherited /opt/pyvenv site-packages. Not an independent clean dependency installation.",
+  "scientific_thresholds_or_sample_counts_changed": false
+}

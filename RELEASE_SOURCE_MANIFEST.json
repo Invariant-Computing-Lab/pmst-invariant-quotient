@@ -1,0 +1,266 @@
+{
+  "excluded_counts": {
+    "NONSOFTWARE_DOC_OR_SECRET_FORMAT": 4
+  },
+  "files": [
+    {
+      "bytes": 282,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/.github/workflows/source-check.yml",
+      "path": ".github/workflows/source-check.yml",
+      "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+    },
+    {
+      "bytes": 29061,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/01_Manuscript_PMST_Invariant_Quotient_Geometry.md",
+      "path": "01_Manuscript_PMST_Invariant_Quotient_Geometry.md",
+      "sha256": "13c27c479beabba26d83a11f8f98fcf137d8bb929a40e0f1cd70069e342d646d"
+    },
+    {
+      "bytes": 18474,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/02_Supplementary_Appendix_PMST_Invariants.md",
+      "path": "02_Supplementary_Appendix_PMST_Invariants.md",
+      "sha256": "237f8f36a3b9fc5a94e71ddec4a176d4d4502ba5837d74aae352afa6f23532dc"
+    },
+    {
+      "bytes": 314,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/03_Reproducibility/CITATION.cff",
+      "path": "03_Reproducibility/CITATION.cff",
+      "sha256": "d4b9259346fe18243cf33f3927b68765f7b4757eaa5654d4f5f01c6bc5822f71"
+    },
+    {
+      "bytes": 22403,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/03_Reproducibility/pmst_invariant_final_experiment.py",
+      "path": "03_Reproducibility/pmst_invariant_final_experiment.py",
+      "sha256": "a723239284f15dd5ddcb149e5dc5ca2fdc53b3d14579999beccf4c1986ed5b32"
+    },
+    {
+      "bytes": 92,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/03_Reproducibility/requirements.txt",
+      "path": "03_Reproducibility/requirements.txt",
+      "sha256": "1dec9ce27e27a6120a84d6f41ee92e9fde09b1a949b20f22c2e0c0a53be0daf1"
+    },
+    {
+      "bytes": 22275,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H1_GL_conditioning.csv",
+      "path": "04_Data/H1_GL_conditioning.csv",
+      "sha256": "f141c129949d78af46a999dc8655bad92f4d7159488580545a84da3ec46d631b"
+    },
+    {
+      "bytes": 11181,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H1_gauge_exact.csv",
+      "path": "04_Data/H1_gauge_exact.csv",
+      "sha256": "404dd7aff53cfb238068b477e59c848359053783e5253cc263e43afe4b2c6629"
+    },
+    {
+      "bytes": 54400,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H1_gauge_offorbit.csv",
+      "path": "04_Data/H1_gauge_offorbit.csv",
+      "sha256": "e9784d1acd23d13368145a65794487a405c2eedc47f25e4aeab29029a230d5f1"
+    },
+    {
+      "bytes": 515,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H2_permutation_exact.csv",
+      "path": "04_Data/H2_permutation_exact.csv",
+      "sha256": "727c93969b384c351b76ee7f8cc5bc279a2089cf76f78b22eecf3cf094b963e9"
+    },
+    {
+      "bytes": 13924,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H3_adversarial_nuisance_grid.csv",
+      "path": "04_Data/H3_adversarial_nuisance_grid.csv",
+      "sha256": "616c7cb453bfa02a3737c147e10ae425390f49cb6485219e196f79f00c1474a2"
+    },
+    {
+      "bytes": 480013,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H3_full_quotient_exact.csv",
+      "path": "04_Data/H3_full_quotient_exact.csv",
+      "sha256": "01523a5e186e4c2a999e9b2a8ed37028c2541891e28b917cf2772e0ff502f247"
+    },
+    {
+      "bytes": 290693,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H4_spectral_identity.csv",
+      "path": "04_Data/H4_spectral_identity.csv",
+      "sha256": "a601ab3e167f9f4a98fa1c3cedc8bd95e443c033f1570c0a8593befaa49d5e55"
+    },
+    {
+      "bytes": 1017,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/04_Data/H5_central_copy_status.csv",
+      "path": "04_Data/H5_central_copy_status.csv",
+      "sha256": "5e134f23202fb2d0637ef80c05b5747d43c1a1ea75e9507b967b50d6b8ed4618"
+    },
+    {
+      "bytes": 136188,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/05_Figures/Figure_1_Gauge_Dose_Response.png",
+      "path": "05_Figures/Figure_1_Gauge_Dose_Response.png",
+      "sha256": "61b2ca5e3ca385ee3edae6e3aaf73ccf3154bbbd78afa5ea073a7b7a09a293b2"
+    },
+    {
+      "bytes": 170832,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/05_Figures/Figure_2_Composition_Robustness.png",
+      "path": "05_Figures/Figure_2_Composition_Robustness.png",
+      "sha256": "a3783021e066636d726b5860ec0f55d0117e21a35e5d1153eb5a4c71368cd2bf"
+    },
+    {
+      "bytes": 125476,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/05_Figures/Figure_3_Quotient_OOD.png",
+      "path": "05_Figures/Figure_3_Quotient_OOD.png",
+      "sha256": "22aacad050b6b2cec5230c8cb5d71a1d0637282c7692ccb041f7e5887ab88642"
+    },
+    {
+      "bytes": 125245,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/05_Figures/Figure_4_Spectral_Identity.png",
+      "path": "05_Figures/Figure_4_Spectral_Identity.png",
+      "sha256": "0094e19a14d4f7c88100a8f91b5c456211fbf5f9e428a390b6aa9313531916e4"
+    },
+    {
+      "bytes": 113012,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/05_Figures/Figure_5_Psi_Falsification.png",
+      "path": "05_Figures/Figure_5_Psi_Falsification.png",
+      "sha256": "18e86e6d22d317f546537ffbdee7a619bc5fae324f6105f0a1339ead1843440c"
+    },
+    {
+      "bytes": 597,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/Confirmatory_Hypotheses.csv",
+      "path": "06_Tables/Confirmatory_Hypotheses.csv",
+      "sha256": "b753f94410f5a6ebb3a7b1a73925303b0e00f5ab58f74566860633ef61b8cf52"
+    },
+    {
+      "bytes": 724,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/H1_gauge_dose_response.csv",
+      "path": "06_Tables/H1_gauge_dose_response.csv",
+      "sha256": "350a58f823b5d0fe79843d725294101b4efa4c34da43ea27675eef03ba5e81bb"
+    },
+    {
+      "bytes": 485,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/H2_composition_classes.csv",
+      "path": "06_Tables/H2_composition_classes.csv",
+      "sha256": "16b9ca3fd6996918417af83b0fa8fe1f6b5e0a66438c60ebfb6c786810ceecc1"
+    },
+    {
+      "bytes": 265,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/H2_noise_robustness.csv",
+      "path": "06_Tables/H2_noise_robustness.csv",
+      "sha256": "a9bff634bd64b29833a9d17ca7c8cfbfd9c0200107d98941a69866513454714d"
+    },
+    {
+      "bytes": 125,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/H3_OOD_ablation.csv",
+      "path": "06_Tables/H3_OOD_ablation.csv",
+      "sha256": "1d0e3240d9e11f12d3b9d6f8337e1f5ed4994d41508f429233f144d1e81be513"
+    },
+    {
+      "bytes": 424,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/H4_discriminant_localization.csv",
+      "path": "06_Tables/H4_discriminant_localization.csv",
+      "sha256": "a0744dcd32c08b1aeb512440301c7856b99d2c35b686b103f6432c12c5cc4e18"
+    },
+    {
+      "bytes": 1891,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/H4_spectral_summary.csv",
+      "path": "06_Tables/H4_spectral_summary.csv",
+      "sha256": "059ed6cde40e5d3113dac7bd024ea304f81d31c185303f506c1394793928986b"
+    },
+    {
+      "bytes": 249,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/06_Tables/H5_literal_Psi_geometry.csv",
+      "path": "06_Tables/H5_literal_Psi_geometry.csv",
+      "sha256": "44bd4808211a5f1f63a40e33c9d2df677b6ec5aaa0709f08ecd8f714fb8e8d0d"
+    },
+    {
+      "bytes": 1195,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/07_Reporting/ANALYSIS_PLAN.md",
+      "path": "07_Reporting/ANALYSIS_PLAN.md",
+      "sha256": "a7b35c766cdb587ce2cbeb5e493ddb9a66b7dae0986863695be894bf24c01920"
+    },
+    {
+      "bytes": 1109,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/07_Reporting/CLAIM_BOUNDARIES.md",
+      "path": "07_Reporting/CLAIM_BOUNDARIES.md",
+      "sha256": "2a24f043c81407960953a1c7cb380101cf57ba2b08620bb05182525242627418"
+    },
+    {
+      "bytes": 308,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/07_Reporting/ENVIRONMENT.json",
+      "path": "07_Reporting/ENVIRONMENT.json",
+      "sha256": "63ea1d969f21c82ec24905c035c0bfa75a0ff91f231b514e7a0a7f02e94f27b3"
+    },
+    {
+      "bytes": 2046,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/07_Reporting/FINAL_RESULTS.json",
+      "path": "07_Reporting/FINAL_RESULTS.json",
+      "sha256": "c079021237494d49ba0f4c194eeeec727f349ce0a005dd0981051c639d791b58"
+    },
+    {
+      "bytes": 213,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/CITATION.cff",
+      "path": "CITATION.cff",
+      "sha256": "5f05cf0f57c4a24624792650f0786e98bac337d3a2b4ece9e1e743b216215afe"
+    },
+    {
+      "bytes": 527,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/DEPENDENCIES_AND_CHECKS.md",
+      "path": "DEPENDENCIES_AND_CHECKS.md",
+      "sha256": "2a0cc2a90e376cc9461b3d884b73d42672d5bba20fcb833cd686e5ccba276b72"
+    },
+    {
+      "bytes": 7120,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/FILE_MANIFEST.json",
+      "path": "FILE_MANIFEST.json",
+      "sha256": "9b56fc2855681858fddccebf7a7a2b8026ae67c8419d76d660d0aac830a9b9e1"
+    },
+    {
+      "bytes": 3715,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/MANIFEST_SHA256.txt",
+      "path": "MANIFEST_SHA256.txt",
+      "sha256": "5d2d10e6419679f4cf830702084422a00b376057a9cd4bf2d4eff25511cb828e"
+    },
+    {
+      "bytes": 104,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/PORTABILITY.patch",
+      "path": "PORTABILITY.patch",
+      "sha256": "468ea0e867851e7e7474d7275150d110b34caf9d13d7d1aa1f0210778d82c655"
+    },
+    {
+      "bytes": 1870,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/README.md",
+      "path": "README.md",
+      "sha256": "c71de1b5689b22441b4e9b33fe78630fd34555997174a5cbb7c65edd2f94173d"
+    },
+    {
+      "bytes": 1630,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/README_SUBMISSION_PACKAGE.md",
+      "path": "README_SUBMISSION_PACKAGE.md",
+      "sha256": "9c2363b4b04ba5bd6eb360df6c94c0cdc5c1e612df1decb6610d5df4d9faf793"
+    },
+    {
+      "bytes": 226,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/RELEASE_NOTES.md",
+      "path": "RELEASE_NOTES.md",
+      "sha256": "26f0876b299412dd922a9e9981cf1000cd7c0ed15e1a80fc0ef3d51e32db1cca"
+    },
+    {
+      "bytes": 1216,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/RELEASE_SPEC.json",
+      "path": "RELEASE_SPEC.json",
+      "sha256": "5b02c6f7ba70ca8093f6e5f9d3876127b3393a39ab6d2a16120a6b62287a2885"
+    },
+    {
+      "bytes": 2729,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/checks/RESULT.json",
+      "path": "checks/RESULT.json",
+      "sha256": "32d0b041f81af2db99306077e1da3efddda60bdf4cee20bbbcaa3f52c2676360"
+    },
+    {
+      "bytes": 2366,
+      "original_source_member": "Invariant_CP03R1/github/pmst-invariant-quotient/run_checks.py",
+      "path": "run_checks.py",
+      "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+    }
+  ],
+  "published_files": 42,
+  "repository": "github/pmst-invariant-quotient",
+  "schema": "invariant.source_member_manifest.v1",
+  "scope": "source files + minimal repository metadata; no new training or independent experiment",
+  "selected_from_files": 46,
+  "source_archive": "CP03R1",
+  "source_archive_sha256": "9507b5a42e661ae7588ab69cb395597749f043c419ebd981a6c91051516a3209"
+}

@@ -1,0 +1,24 @@
+{
+  "academic_publications_excluded_from_corrected_package": true,
+  "excluded_publication_related_paths": [
+    {
+      "path": "01_Manuscript_PMST_Invariant_Quotient_Geometry.md",
+      "sha256": "13c27c479beabba26d83a11f8f98fcf137d8bb929a40e0f1cd70069e342d646d"
+    },
+    {
+      "path": "README_SUBMISSION_PACKAGE.md",
+      "sha256": "9c2363b4b04ba5bd6eb360df6c94c0cdc5c1e612df1decb6610d5df4d9faf793"
+    },
+    {
+      "path": "02_Supplementary_Appendix_PMST_Invariants.md",
+      "sha256": "237f8f36a3b9fc5a94e71ddec4a176d4d4502ba5837d74aae352afa6f23532dc"
+    }
+  ],
+  "new_zip_copies_software_files_only": true,
+  "original_release_zip_filename": "pmst-invariant-quotient__CP03R1__b59841135218.zip",
+  "original_release_zip_sha256": "b086628c38932ebf35f300bb1f777425e23222738e9f0d735fe269f5093a3542",
+  "public_release_approved": false,
+  "repository": "pmst-invariant-quotient",
+  "schema": "invariant.v7.publication_exclusion.v1",
+  "source_archive_unchanged": true
+}
